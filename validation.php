@@ -106,7 +106,7 @@ return [
     'prohibits' => 'Bidang :attribute melarang :other hadir.',
     'regex' => 'Format :attribute tidak valid.',
     'required' => 'Bidang :attribute wajib diisi.',
-    'required_if' => 'Bidang :attribute diperlukan ketika :values adalah :value.',
+    'required_if' => 'Bidang :attribute diperlukan ketika :value adalah :value.',
     'required_unless' => 'Bidang :attribute wajib diisi kecuali :other ada di :values.',
     'required_with' => 'Bidang :attribute diperlukan bila :values ada.',
     'required_with_all' => 'Bidang :attribute diperlukan saat :values ada.',
